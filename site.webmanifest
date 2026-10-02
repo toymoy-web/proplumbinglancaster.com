@@ -1,0 +1,11 @@
+{
+  "name": "Lancaster Pro Plumbing",
+  "short_name": "Lancaster Pro Plumbing",
+  "icons": [
+    {"src": "/img/favicon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/img/favicon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "theme_color": "#2B2B2A",
+  "background_color": "#F5F3EF",
+  "display": "browser"
+}

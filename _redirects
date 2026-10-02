@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves clean/extensionless URLs and directory index files natively.
+# No 200/301 rules added here — mixing them has caused ERR_TOO_MANY_REDIRECTS loops on this network before.
