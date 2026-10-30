@@ -257,3 +257,7 @@ main{overflow-x:clip;}
 .inline-cta p{margin:0;color:var(--text);max-width:46ch;}
 .inline-cta .btn{white-space:nowrap;}
 @media(max-width:560px){.inline-cta{padding:18px 20px;}.inline-cta .btn{width:100%;text-align:center;}}
+
+/* social links */
+.social-links{list-style:none;margin:16px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:8px 14px;}
+.social-links a{font-size:.85rem;text-decoration:underline;text-underline-offset:3px;}
